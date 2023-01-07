@@ -2,6 +2,8 @@
   "name": "@tulip/store",
   "private": false,
   "version": "1.0.0",
+  "description": "Tulip Store",
+  "author": "Rotem Ben Itzhak",
   "type": "module",
   "main": "./dist/my-lib.umd.cjs",
   "module": "./dist/my-lib.js",
